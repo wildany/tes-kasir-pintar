@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Program ini dibuat sebagai persyaratan seleksi PT Kasir Pintar International
 
 ## Installation
 
@@ -45,18 +45,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Documentation
 
-```bash
-# unit tests
-$ npm run test
+# Documentation can be watched on http://localhost:3000/doc
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
 
 ## Support
 
