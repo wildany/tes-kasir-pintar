@@ -47,6 +47,6 @@ $ npm run start:prod
 
 ## Documentation
 
-You can read API documentation on http://localhost:3000/doc
+Dokumentasi API dapat diakses di http://localhost:3000/doc
 
 
