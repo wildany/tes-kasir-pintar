@@ -47,7 +47,7 @@ $ npm run start:prod
 
 ## Documentation
 
-# Documentation can be watched on http://localhost:3000/doc
+Documentation can be watched on http://localhost:3000/doc
 
 
 ## Support
